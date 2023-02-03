@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm AyushAnshu</h1>
-<h3 align="center">I am Web Developer</h3>
 
 - 🔭 I’m currently working on [WeHelpDevs](https://bio.link/wehelpdevs)
 
