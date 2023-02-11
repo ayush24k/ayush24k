@@ -6,12 +6,17 @@ A Frontend Web Developer
 
 I am a Hustler and Dreamer with a Entrepreneurial Mindset.
 
-* 🌍  I'm based in **India**
+* 🌍  I'm based in India
 * ✉️  You can contact me at [ayushanshu69@gmail.com](mailto:ayushanshu69@gmail.com)
 * 🚀  I'm currently working on [WeHelpDevs](http://bio.link/wehelpdevs)
-* 🧠  I'm currently learning **MERN** stack and **DSA**
-* 🤝  I'm open to collaborating on **Web Projects**
-* ⚡  Beside coding and development I like **Content Creation**
+* 🧠  I'm learning MERN stack and DSA
+* 🤝  I'm open to collaborating on Web Projects
+* ⚡  Beside coding and development I like Content Creation
+
+<a href="https://www.github.com/ayush24k" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ayush24k?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a><a href="https://www.twitter.com/ayushanshuu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/ayushanshuu?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
+/></a>
 
 ### Skills
 
