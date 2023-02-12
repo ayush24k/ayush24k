@@ -45,3 +45,10 @@ src="https://img.shields.io/twitter/follow/ayushanshuu?logo=twitter&style=for-th
 <a href="http://www.github.com/ayush24k"><img src="https://github-readme-stats.vercel.app/api?username=ayush24k&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="ayush24k's GitHub stats" /></a>
 
 <a href="http://www.github.com/ayush24k"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush24k&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+## 💰 Support
+<p>
+<a href='https://www.buymeacoffee.com/ayushanshu' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Ayush on buymecoffee' /></a>
+</p>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=ayush24k&color=brightgreen" />
