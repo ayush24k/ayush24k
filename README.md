@@ -1,7 +1,7 @@
 Hi 👋 My name is Ayush Anshu
 ============================
 
-A Frontend Web Developer
+A Passionate Web Developer
 ------------------------
 
 I am a Hustler and Dreamer with a Entrepreneurial Mindset.
