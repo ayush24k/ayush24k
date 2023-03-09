@@ -1,10 +1,7 @@
-Hi 👋 My name is Ayush Anshu
+Hi, I am Ayush! Great to See you here! 👋
 ============================
 
-A Passionate Web Developer
-------------------------
-
-I am a Hustler and Dreamer with a Entrepreneurial Mindset.
+I am Ayush Anshu, currently pursuing my btech in computer science(AI/ML).  I am a Full Stack Developer with experience building open source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ayushanshu69@gmail.com](mailto:ayushanshu69@gmail.com)
