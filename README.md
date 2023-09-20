@@ -5,9 +5,7 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/ayushanshuu.svg?style=social&label=Follow%20%40ayushanshuu)](https://twitter.com/ayushanshuu)
 
-
-<a href="http://www.github.com/ayush24k"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush24k&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
+![Ayush24k's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush24k&show_icons=true&theme=dark)
 
 
 <p align="right">
