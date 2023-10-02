@@ -1,11 +1,18 @@
 <img src="https://cdn.discordapp.com/attachments/1065510995520389120/1153679064889053235/1080x360.jpg" />
 
-<h1>> Ayush</h1> 
-<h4>learning cs/ web dev + ai Research</h4>
+<h1>>Hi, I'm Ayush Anshu</h1> 
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/ayushanshuu.svg?style=social&label=Follow%20%40ayushanshuu)](https://twitter.com/ayushanshuu)
+### About
 
-![Ayush24k's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush24k&show_icons=true&theme=dark)
+-  **Learning :** Full-Stack Web Development | AI & Machine Learning :zap:
+-  **Languages :** C++, Python, JavaScript :fire:
+-  **Framework:** React, NextJS, TypeScript
+-  **Hobbies :** Reading & listening to music :headphones:
+-  **Fact :** I love creating useless stuff :heart: 
+
+
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush24k&show_icons=true&locale=en&theme=dark" alt="ayushanshu" /></span>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush24k&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayushanshu" /></span>
 
 
 <p align="right">
