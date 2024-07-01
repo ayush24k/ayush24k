@@ -26,4 +26,4 @@ Full-Stack Web Developer(MERN Stack) currently learning about AI & Machine Learn
 
 
 ## Lets Connect
-Hit me on [Twitter](https://twitter.com/ayushanshuu) or [Email](mailto:ayushanhu69@gmail.com) to chat about projects and ideas. I'm taking on freelance projects and I am open to hearing about potential opportunities, discussing them with you and then potentially collaborating if it's a good fit.
+Hit me on [Twitter](https://twitter.com/ayushanshuu) or [Email](mailto:ayushanshu69@gmail.com) to chat about projects and ideas. I'm taking on freelance projects and I am open to hearing about potential opportunities, discussing them with you and then potentially collaborating if it's a good fit.
