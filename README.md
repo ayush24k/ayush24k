@@ -1,5 +1,5 @@
 ## I'm Ayush Anshu 👋
-Full-Stack Web Developer(MERN Stack) currently learning about AI & Machine Learning.
+Full-Stack Web Developer currently learning about AI & Machine Learning.
 
 <!-- All of my projects are listed Here [(.portfolio/projetcs)](https://twitter.com/ayushanshuu) -->
 
@@ -13,7 +13,7 @@ Full-Stack Web Developer(MERN Stack) currently learning about AI & Machine Learn
   <summary>Languages and Tools Im Kinda Good In</summary>
   
   - Languages: C/C++, Rust, Javascript, Python
-  - Framework: MERN Stack, Next.js
+  - Framework/Technologies: MERN Stack, Next.js, PostgreSql, hono.js
   - Tools: Git, Docker, Node, Figma
 </details>
 
