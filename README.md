@@ -25,5 +25,13 @@ Full-Stack Web Developer currently learning about AI & Machine Learning.
 </details>
 
 
+<details>
+  <summary>LeetCode Stats</summary> <br>
+  <p>
+      <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ayush24k?theme=dark&font=Nunito&ext=heatmap" />  
+  </p>
+</details>
+
+
 ## Lets Connect
 Hit me on [Twitter](https://twitter.com/ayushanshuu) or [Email](mailto:ayushanshu69@gmail.com) to chat about projects and ideas. I'm taking on freelance projects and I am open to hearing about potential opportunities, discussing them with you and then potentially collaborating if it's a good fit.
