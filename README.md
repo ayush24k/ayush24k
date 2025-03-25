@@ -12,7 +12,7 @@ Full-Stack Web Developer currently learning about AI & Machine Learning.
 <details>
   <summary>Languages and Tools Im Kinda Good In</summary>
   
-  - Languages: C/C++, Rust, Javascript, Python
+  - Languages: C/C++, Javascript, Python
   - Framework/Technologies: MERN Stack, Next.js, PostgreSql, hono.js
   - Tools: Git, Docker, Node, Figma
 </details>
